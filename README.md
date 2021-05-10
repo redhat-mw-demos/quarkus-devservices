@@ -1,5 +1,7 @@
 # Quarkus DevServices
 
+[Video Demo](https://youtu.be/yiFjAru09l8) also available!
+
 This project showcases the new [DevServices capabilities introduced in Quarkus 1.13](https://quarkus.io/blog/quarkus-1-13-0-final-released/#zero-config-setup-with-devservices).
 
 One main goal of Quarkus is to make developer lives easier and bring back developer joy. When starting an application in dev mode, Quarkus is now able to automatically start database containers. Quarkus will automatically pick a database container image for you based on the database extensions selected in the project.
