@@ -42,7 +42,7 @@ You can run your application in dev mode that enables live coding using:
 
 If a valid container runtime is found you should see something similar to the below in the output **BEFORE** the application is started:
 
-```shell
+```log
 INFO  [org.tes.DockerClientFactory] (build-48) Docker host IP address is localhost
 INFO  [org.tes.DockerClientFactory] (build-48) Connected to docker: 
   Server Version: 20.10.6
